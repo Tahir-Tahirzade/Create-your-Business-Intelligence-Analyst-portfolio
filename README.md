@@ -51,6 +51,12 @@
 **Outcome:** An interactive online portfolio, seamlessly incorporating the Tableau skills dashboard, ready for presentation.
 
 ## C. Resources:
+- [Tableau Gallery(in French)](https://public.tableau.com/app/discover)
+- [Vimeo ](https://vimeo.com/fr/)
+- Référentiel de compétences Business Intelligence Analyst
+- Modèle du mock-up sur Miro
+- Dictionnaire de la liste des données
+
 
 ### Skills:
 
@@ -70,3 +76,11 @@
 -Coordination:
      -  Scheduled a check-in meeting to discuss progress, showcasing coordination in project management.
 # References:
+
+- [Public Speaking(In French)](https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public)
+- [Professional Writing(In French)](https://openclassrooms.com/fr/courses/4929676-redigez-des-ecrits-professionnels)
+- [Create a Dashboard with Tableau(In French)](https://openclassrooms.com/fr/courses/8200086-realisez-un-dashboard-avec-tableau)
+- [Find Your First Job in Data(In French)](https://openclassrooms.com/fr/courses/8106476-trouvez-votre-premier-emploi-en-data)
+- [Effective Teamwork(In French)](https://openclassrooms.com/fr/courses/5164316-travaillez-efficacement-en-equipe)
+- [Communicate and Formalize Your Ideas Through Storytelling(In French)](https://openclassrooms.com/fr/courses/5238041-communiquez-et-formalisez-vos-idees-par-le-storytelling)
+
