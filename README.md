@@ -1,7 +1,7 @@
-# A. Overview of the Project: Building a Dynamic Skills Dashboard
+
 
 *As a Business Intelligence Analyst at ESN Data, I embarked on a transformative journey to evaluate and showcase my skills effectively. The objective was to create a comprehensive skills dashboard using Tableau Software, aligning with the aerospace client's preference for internal data visualization sharing. Let's delve into the logical steps of this engaging project.*
-
+# A. Overview of the Project: Building a Dynamic Skills Dashboard
 ## B. Steps:
 
 ### 1: Skills Evaluation Dashboard
