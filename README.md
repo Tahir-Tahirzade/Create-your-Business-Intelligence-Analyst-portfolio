@@ -68,7 +68,7 @@
 - Figma
 
 #### Soft Skills:
--  Communication in English:
+-  Communication in English
 - Adaptability:
     -  Adapted to the client's preference for Tableau Software, quickly acquiring new skills for the project.
 - Continuous Learning:
