@@ -55,6 +55,11 @@
 ### Skills:
 
 #### Hard Skills:
+- Tableau Software:
+- Github 
+- Excel
+- Miro
+- Figma
 
 #### Soft Skills:
 
